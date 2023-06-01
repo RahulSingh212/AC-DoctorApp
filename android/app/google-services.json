@@ -1,0 +1,239 @@
+{
+  "project_info": {
+    "project_number": "163197865756",
+    "firebase_url": "https://aurigacare-dpapplication-default-rtdb.firebaseio.com",
+    "project_id": "aurigacare-dpapplication",
+    "storage_bucket": "aurigacare-dpapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163197865756:android:282453396f9cae844774d9",
+        "android_client_info": {
+          "package_name": "com.auriga.auriga_doctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163197865756-99d57hcau5eida0g44sss5kjm52cb3lb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.auriga.auriga_doctor",
+            "certificate_hash": "cb73d164ba4eead67e358c17ecdcdbdce72cfd5b"
+          }
+        },
+        {
+          "client_id": "163197865756-dhtahej88aodvb9on0ee1vumre3ham7d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.auriga.auriga_doctor",
+            "certificate_hash": "78e56b4ac5b2e0f1cb7eecb44a8948da7f0ce54f"
+          }
+        },
+        {
+          "client_id": "163197865756-e6e9114gcv2ajduaqomi9iq0d9oftp3o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.auriga.auriga_doctor",
+            "certificate_hash": "363371a04dfaae6b91e0dbdd00389e1791632d13"
+          }
+        },
+        {
+          "client_id": "163197865756-ml09soofu5a1k8anf2n5a7c5mfp2fjii.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.auriga.auriga_doctor",
+            "certificate_hash": "deb2a57f7189c12cbab5a46f8a1c488cac9fe4f5"
+          }
+        },
+        {
+          "client_id": "163197865756-r8gaqpeocup9kh9n7fhqodjtsjearosm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.auriga.auriga_doctor",
+            "certificate_hash": "ef5eb6f2b5b431660fe20a63c78fba9832f94b3f"
+          }
+        },
+        {
+          "client_id": "163197865756-sfdkabsd7de2nftasqjok1r1avjd2g6i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.auriga.auriga_doctor",
+            "certificate_hash": "7881ad89c0332b5f048498d29505f628f39ee8e4"
+          }
+        },
+        {
+          "client_id": "163197865756-svpggbpnb8n3u1c463443ec7g0u4be7a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.auriga.auriga_doctor",
+            "certificate_hash": "f5fe1cc6d29cdf6872e24473a5e2a23e2193ad9e"
+          }
+        },
+        {
+          "client_id": "163197865756-fnbdd9gvjs00tjiploukcrjhh185ao6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOmrl9Q82f_hftGYoC5_9uCyOZQsXc_Fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163197865756-fnbdd9gvjs00tjiploukcrjhh185ao6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163197865756:android:fed872ee7c60dfee4774d9",
+        "android_client_info": {
+          "package_name": "com.auriga.auriga_patient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163197865756-9bfc4384rtpfosvmkuauqmh2432klv0n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.auriga.auriga_patient",
+            "certificate_hash": "a0f7ce3286b9bc31a78d6e444ce255c7869c2102"
+          }
+        },
+        {
+          "client_id": "163197865756-i5e6eeg3lmc9d157djq74i32lmg6uu1h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.auriga.auriga_patient",
+            "certificate_hash": "deb2a57f7189c12cbab5a46f8a1c488cac9fe4f5"
+          }
+        },
+        {
+          "client_id": "163197865756-fnbdd9gvjs00tjiploukcrjhh185ao6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOmrl9Q82f_hftGYoC5_9uCyOZQsXc_Fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163197865756-fnbdd9gvjs00tjiploukcrjhh185ao6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163197865756:android:4c8de6d4ac4ed50c4774d9",
+        "android_client_info": {
+          "package_name": "com.auriga.swasthyamitra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163197865756-3qq2fbuvau32nh94o0vj2130ve7i997u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.auriga.swasthyamitra",
+            "certificate_hash": "ff8e9c4d14e6e357666e3b73581857eb071ec88c"
+          }
+        },
+        {
+          "client_id": "163197865756-4semrtponipsgd0s7r6vcqm8n697srto.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.auriga.swasthyamitra",
+            "certificate_hash": "d5c3a2fad05f33f7edf7e9c9f7172fc7a093ec41"
+          }
+        },
+        {
+          "client_id": "163197865756-n26f6v1spm0gk01gbs85n2loo1j9i5k6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.auriga.swasthyamitra",
+            "certificate_hash": "deb2a57f7189c12cbab5a46f8a1c488cac9fe4f5"
+          }
+        },
+        {
+          "client_id": "163197865756-n4irr9nlavi5m50jhedrm80rdv3a8lfs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.auriga.swasthyamitra",
+            "certificate_hash": "f5fe1cc6d29cdf6872e24473a5e2a23e2193ad9e"
+          }
+        },
+        {
+          "client_id": "163197865756-qneh2i67hi02c09mrhoq2bqv8ei8eaqv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.auriga.swasthyamitra",
+            "certificate_hash": "7881ad89c0332b5f048498d29505f628f39ee8e4"
+          }
+        },
+        {
+          "client_id": "163197865756-fnbdd9gvjs00tjiploukcrjhh185ao6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOmrl9Q82f_hftGYoC5_9uCyOZQsXc_Fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163197865756-fnbdd9gvjs00tjiploukcrjhh185ao6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163197865756:android:084d630ef8ce6d984774d9",
+        "android_client_info": {
+          "package_name": "com.aurigaCare.auriga_doctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163197865756-fnbdd9gvjs00tjiploukcrjhh185ao6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOmrl9Q82f_hftGYoC5_9uCyOZQsXc_Fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163197865756-fnbdd9gvjs00tjiploukcrjhh185ao6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
